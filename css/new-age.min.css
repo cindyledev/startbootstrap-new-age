@@ -58,7 +58,7 @@ section h2 {
   letter-spacing: 1px;
 }
 #mainNav .navbar-brand {
-  color: #fdcc52;
+  color: #fff;
   font-family: Catamaran, Helvetica, Arial, sans-serif;
   font-weight: 200;
   letter-spacing: 1px;
@@ -115,10 +115,10 @@ section h2 {
   }
   #mainNav.navbar-shrink {
     border-color: rgba(34, 34, 34, 0.1);
-    background-color: #fff;
+    background-color: #004e63;
   }
   #mainNav.navbar-shrink .navbar-brand {
-    color: #222;
+    color: #fff;
   }
   #mainNav.navbar-shrink .navbar-brand:focus,
   #mainNav.navbar-shrink .navbar-brand:hover {
@@ -126,7 +126,7 @@ section h2 {
   }
   #mainNav.navbar-shrink .navbar-nav > li > a,
   #mainNav.navbar-shrink .navbar-nav > li > a:focus {
-    color: #222;
+    color: #fff;
   }
   #mainNav.navbar-shrink .navbar-nav > li > a:focus:hover,
   #mainNav.navbar-shrink .navbar-nav > li > a:hover {
